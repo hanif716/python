@@ -1,2 +1,2 @@
-def hello():
-    return 'Goodbye, Mars!'
+x = "Hello World!"
+print(x)
